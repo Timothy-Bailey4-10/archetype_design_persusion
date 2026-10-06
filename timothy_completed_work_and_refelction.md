@@ -21,6 +21,31 @@ All 8 files assigned to me in the Archetypes and Persuasion repo are populated. 
 | memphis-design.md | Postmodernist design movement | `memphis-design_population` | Done, pushed, merged into Timothy's fork |
 
 
+## Proof of Work
+Explorer.md:
+https://github.com/ahmet360/archetype_design_persusion/issues/20
+
+Hero.md:
+https://github.com/ahmet360/archetype_design_persusion/issues/19
+
+Outlaw.md
+https://github.com/ahmet360/archetype_design_persusion/issues/21
+
+sage.md:
+https://github.com/ahmet360/archetype_design_persusion/issues/22
+
+Bauhaus.md
+https://github.com/ahmet360/archetype_design_persusion/issues/23
+
+swiss-modernism.md
+https://github.com/ahmet360/archetype_design_persusion/issues/24
+
+pop-art.md
+https://github.com/ahmet360/archetype_design_persusion/issues/25
+
+memphis-design.md
+https://github.com/ahmet360/archetype_design_persusion/issues/26
+
 ## Reflection
 
 I learned about the different brand archetypes that companies lean into to appeal to a target audience and how modernism and post-modernism can be used to appeal to the different archetypes.
